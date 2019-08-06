@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.miaozi.gesturelockview.GestureLockView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:defaultColor="#9B9B9B"
+    app:pressedColor="@color/colorAccent"
+    app:errorColor="#7C0202"
+    app:correctColor="#0329FC"
+    android:id="@+id/lock"
+    >
+</com.miaozi.gesturelockview.GestureLockView>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="GestureLockView">
+        <attr name="pressedColor" format="color"/>
+        <attr name="defaultColor" format="color"/>
+        <attr name="errorColor" format="color"/>
+        <attr name="correctColor" format="color"/>
+        <attr name="radius" format="dimension"/>
+    </declare-styleable>
+</resources>
